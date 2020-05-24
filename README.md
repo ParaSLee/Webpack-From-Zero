@@ -7,4 +7,11 @@
 
 ## 目录
 
-1. 写Demo用的简单配置
+### 第一章：写Demo用的简单配置
+
+[代码仓库](https://github.com/ParaSLee/Webpack-From-Zero/tree/master/1st_Chapter) 
+
+[github-blog](https://github.com/ParaSLee/Webpack-From-Zero/issues/2)
+
+[掘金](https://juejin.im/post/5eca58e96fb9a0480067bc31)
+
